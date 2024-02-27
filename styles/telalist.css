@@ -1,0 +1,122 @@
+.btn button{
+    color: white;
+    background-color: rgb(81, 160, 3);
+    width: 50%;
+    height: 60px;
+    border:transparent;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.btn button:hover{
+    background-color: rgb(53, 104, 1);
+}
+
+main .btn{
+    position: absolute;
+    top: 90%;
+    left: 20%;
+    align-items: center;
+    align-content: center;
+    width: 20%;
+    height: 70px;
+    z-index: 1;
+}
+
+
+.btn2 button{
+    color: white;
+    background-color: rgb(81, 160, 3);
+    width: 50%;
+    height: 60px;
+    border:transparent;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.btn2 button:hover{
+    background-color: rgb(53, 104, 1);
+}
+
+main .btn2{
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    align-items: center;
+    align-content: center;
+    width: 20%;
+    height: 70px;
+    z-index: 1;
+}
+
+.btn3 button{
+    color: white;
+    background-color: rgb(81, 160, 3);
+    width: 50%;
+    height: 60px;
+    border:transparent;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.btn3 button:hover{
+    background-color: rgb(53, 104, 1);
+}
+
+main .btn3{
+    position: absolute;
+    top: 90%;
+    left: 60%;
+    align-items: center;
+    align-content: center;
+    width: 20%;
+    height: 70px;
+    z-index: 1;
+}
+
+.btn4 button{
+    color: white;
+    background-color: rgb(81, 160, 3);
+    width: 50%;
+    height: 60px;
+    border:transparent;
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.btn4 button:hover{
+    background-color: rgb(53, 104, 1);
+}
+
+main .btn4{
+    position: absolute;
+    top: 90%;
+    left: 80%;
+    align-items: center;
+    align-content: center;
+    width: 20%;
+    height: 70px;
+    z-index: 1;
+}
+
+main h1{
+    width: 50%;
+    height: 100px;
+    z-index: 1;
+    top: 20%;
+    left: 20%;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    font-size: xx-large;
+    font-family: Helvetica;
+}
+
